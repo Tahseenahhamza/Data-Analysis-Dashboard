@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-Created a data visualization dashboard using Microsoft Excel to analyze and present the annual performance of Vrinda Store for the year 2022. The dashboard provides interactive insights into sales trends, customer demographics, order statuses, and more, using Pivot Charts and Slicers.
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+
