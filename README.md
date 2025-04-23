@@ -14,7 +14,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 -Interactive slicers for product category, sales channel, and month and gender
 -Clean layout with hidden pivot field buttons for a polished look
 
-- <a href="- <a href="https://github.com/Tahseenahhamza/Data-Analysis-Dashboard/blob/main/Vrinda%20Sales%20Analysis%20.png">View Dashboard</a>
+- <a href="https://github.com/Tahseenahhamza/Data-Analysis-Dashboard/blob/main/Vrinda%20Sales%20Analysis%20.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
