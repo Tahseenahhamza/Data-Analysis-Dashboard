@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+[9:15 pm, 23/4/2025] 🦋: # Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
@@ -12,27 +12,44 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 -Top-performing states by sales volume
 -Sales channel performance (Flipkart, Amazon, Ajio,etc)
 -Interactive slicers for product category, sales channel, and month and gender
--Clean layout with hidden pivot field buttons for a polished look
+-Clean layout with hi…
+[9:19 pm, 23/4/2025] 🦋: # *Vrinda-Store-Data-Analysis*  
+### (Interactive Dashboard Creation Using Microsoft Excel)
 
-- <a href="https://github.com/Tahseenahhamza/Data-Analysis-Dashboard/blob/main/Vrinda%20Sales%20Analysis%20.png">View Dashboard</a>
+## *Project Objective*
+Created a data visualization dashboard using Microsoft Excel to analyze the annual sales performance of Vrinda Store for the year 2022. The objective is to help the store owner gain insights into customer behavior and drive sales growth in 2023 and 2024.
 
-## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## *Dataset Used*
+- [Download Dataset (Excel File)](https://github.com/Tahseenahhamza/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
-## Dashboard
-<img width="754" alt="Vrinda Sales Analysis " src="https://github.com/user-attachments/assets/33787cd0-33ca-4683-9f68-a81843f085fa" />
+## *Key Features*
+- Monthly sales trends (Orders vs Sales)  
+- Gender-wise and age-wise customer analysis  
+- Order status distribution (Delivered, Pending, etc.)  
+- Top-performing states by sales volume  
+- Sales channel performance (Flipkart, Amazon, Ajio, etc.)  
+- Interactive slicers for product category, sales channel, month, and gender  
+- Clean layout with hidden pivot field buttons for a polished presentation  
 
-## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- [View Dashboard (Image)](https://github.com/Tahseenahhamza/Data-Analysis-Dashboard/blob/main/Vrinda%20Sales%20Analysis%20.png)
 
-## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+## *Process*
+- Verified data for missing values and anomalies and resolved inconsistencies  
+- Ensured data cleanliness and consistency in terms of data type, format, and values  
+- Created pivot tables to answer specific business questions  
+- Combined all pivot tables into a single interactive dashboard  
+- Applied slicers for dynamic filtering and analysis  
 
+## *Dashboard Preview*
+<img width="754" alt="Vrinda Sales Analysis" src="https://github.com/user-attachments/assets/33787cd0-33ca-4683-9f68-a81843f085fa" />
 
+## *Project Insights*
+- Around *65% of purchases* were made by *women*, indicating a strong female customer base.  
+- *Maharashtra, Karnataka, and Uttar Pradesh* emerged as the top three states in terms of product purchases.  
+- The *30–49 years age group* contributed to nearly *50% of total sales*.  
+- Most orders were placed through *Amazon, Flipkart, and Myntra*.  
+- Over *90% of the products were successfully delivered*.
+
+## *Final Conclusion*
+To improve Vrinda Store's sales, a strategic marketing plan should focus on *women aged 30–49* residing in *Maharashtra, Karnataka, and Uttar Pradesh*. This demographic represents a high-potential customer segment, known for significant household and lifestyle spending.  
+Targeted digital campaigns and personalized promotions can help capture their attention and drive continued growth.
